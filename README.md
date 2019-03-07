@@ -16,7 +16,7 @@ In this lab, we will use CloudFormation to setup a VPC with two availiablity zon
 
 ## Step by step
 ### Set up your environment with CloudFormation template.
-Use the ClouFormation template to setup your environment.
+Use the [ClouFormation template](https://github.com/ecloudvalley/AWS-Read-Replica-RDS-Database/blob/master/RDS-Test.yaml) to setup your environment.
 
 1. On the **Service** menu, select **CloudFormation**.
 
